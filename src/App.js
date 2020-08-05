@@ -19,7 +19,7 @@ const App=()=>{
             <Contact/>
             <Footer/>
             <Copyright/>
-            <ScrollUp/>
+            {/* <ScrollUp/> */}
 
         </div>
     )
