@@ -1,5 +1,5 @@
 import React from 'react';
-import avatar from './avataaars.svg';
+//import avatar from './avataaars.svg';
 import Nithish from './circle-cropped-1.png';
 //import Screen from './Screenshot (15).png';
 

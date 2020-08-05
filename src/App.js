@@ -5,7 +5,7 @@ import PortFolio from './Portfolio';
 import Footer from './footer';
 import Contact from './Contact';
 import Copyright from './copyright';
-import ScrollUp from './ScrollUp';
+//import ScrollUp from './ScrollUp';
 //import PModal from './Pmodal';
 //import Pmodal2 from './Pmodal2';
 import About from './About';
